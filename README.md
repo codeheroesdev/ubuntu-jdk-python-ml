@@ -8,3 +8,8 @@ The installed python libraries are:
 - `sklearn`
 
 It also includes `flask` for running a small http interface on top of the previous mentioned ML.
+
+You can use this image as your base image:
+```
+codeheroes/ubuntu-jdk-python-ml:0.1
+```
